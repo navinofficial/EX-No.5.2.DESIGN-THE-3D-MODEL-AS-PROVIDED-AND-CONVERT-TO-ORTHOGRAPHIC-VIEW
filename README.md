@@ -36,7 +36,7 @@ Switch to drawing mode from design mode
 ![image](https://user-images.githubusercontent.com/113594316/199412055-fa1f658d-65f4-42c2-9c3c-78c93512e905.png)
 
 ## OUTPUT
-"C:\Users\admin\Pictures\Screenshots\Screenshot 2023-12-20 045306.png"
+![Screenshot 2023-12-20 045306](https://github.com/navinofficial/EX-No.5.2.DESIGN-THE-3D-MODEL-AS-PROVIDED-AND-CONVERT-TO-ORTHOGRAPHIC-VIEW/assets/151710204/39b99b39-f42b-4960-b5d4-95f5623c5f08)
 
 
 ## RESULT:
